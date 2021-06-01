@@ -3,4 +3,5 @@ This is the current website with my personal projects and information about me. 
 
 # Link
 Website URL - https://www.huntervaccaro.com
+
 LinkedIn URL - https://www.linkedin.com/in/hunter-vaccaro/
